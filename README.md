@@ -30,20 +30,8 @@ O projeto permite que o usuário selecione o tipo de ingresso (Pista, Cadeira Su
 
 ---
 
-## ⚙️ Como usar
-
-1. Abra o arquivo `index.html` no navegador.
-2. Selecione o tipo de ingresso desejado no dropdown.
-3. Informe a quantidade que deseja comprar.
-4. Clique no botão **Comprar**.
-5. A quantidade disponível será atualizada automaticamente.
-
-
 ## 🔧 Observações
 
 * A quantidade máxima de compra por vez é 10 ingressos.
 * O sistema é apenas **frontend**, sem persistência de dados em banco; ao atualizar a página, os valores retornam ao original.
 * Código JavaScript modularizado com funções específicas para cada tipo de ingresso (`comprarPista`, `comprarSuperior`, `comprarInferior`).
-
-# Ingresso-Alura
-# Ingresso-Alura
