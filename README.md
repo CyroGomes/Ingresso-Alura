@@ -46,3 +46,4 @@ O projeto permite que o usuário selecione o tipo de ingresso (Pista, Cadeira Su
 * Código JavaScript modularizado com funções específicas para cada tipo de ingresso (`comprarPista`, `comprarSuperior`, `comprarInferior`).
 
 # Ingresso-Alura
+# Ingresso-Alura
